@@ -21,7 +21,7 @@ The key objectives of this research include:
 The research addresses the challenges of precise formation control and robust obstacle avoidance in multi-quadrotor systems. The use of STSMC guarantees that the system remains resilient to external disturbances, while the artificial potential field-based strategy ensures safe navigation in complex environments.
 
 # STSMC Control For Position Control And Trajectory Tracking Of A Single Quadrotor
-![Screenshot 2024-11-17 181205](https://github.com/user-attachments/assets/f9b48cc5-dc86-444c-a3ff-e564fb756e91).                          ![image](https://github.com/user-attachments/assets/cbb55ba6-a79a-42be-9035-566020d99213)
+![Screenshot 2024-11-17 181205](https://github.com/user-attachments/assets/f9b48cc5-dc86-444c-a3ff-e564fb756e91).               ![image](https://github.com/user-attachments/assets/cbb55ba6-a79a-42be-9035-566020d99213)
 
 The above proposed stsmc controller was developed into a ROS-node in order to autonomously control a single drone to hover at an altitude of 15m thereby establishing a position control.Later on the drone was made to draw out various trajectories based on the inputs given by the user and then land again. Fig shows the drone's trajectory using the Q-ground-Control ground control station. The simulator also utilizes a wind generator plugin that is capable of simulating various wind profiles (both constant and stochastic) for speed and direction.
 
