@@ -3,7 +3,7 @@ This project focuses on designing and implementing a distributed tracking protoc
 
 The key objectives of this research include:
 
-(*Formation Control*)
+1. Formation Control
 
 Ensuring stable and efficient formation of multiple quadrotors, even in dynamic environments. This involves achieving consensus between quadrotors, both in fixed and dynamic configurations, to ensure coordinated movement.
 
