@@ -21,6 +21,7 @@ The key objectives of this research include:
 The research addresses the challenges of precise formation control and robust obstacle avoidance in multi-quadrotor systems. The use of STSMC guarantees that the system remains resilient to external disturbances, while the artificial potential field-based strategy ensures safe navigation in complex environments.
 
 # STSMC Control For Position Control And Trajectory Tracking Of A Single Quadrotor
-![Screenshot 2024-11-17 181205](https://github.com/user-attachments/assets/f9b48cc5-dc86-444c-a3ff-e564fb756e91)
+![Screenshot 2024-11-17 181205](https://github.com/user-attachments/assets/f9b48cc5-dc86-444c-a3ff-e564fb756e91)         ![Screenshot 2024-11-17 191442](https://github.com/user-attachments/assets/0bea03ea-b051-4472-bc76-00aac6a7533e)
+
 
 # STSMC Control For Trajectory Tracking Of a Multi-Quadrotor System
