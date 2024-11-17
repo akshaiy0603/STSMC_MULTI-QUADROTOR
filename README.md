@@ -26,7 +26,7 @@ The research addresses the challenges of precise formation control and robust ob
 
 
 # STSMC Control For Trajectory Tracking Of a Multi-Quadrotor System
-![image](https://github.com/user-attachments/assets/0f70d12a-5f8f-4074-b69f-289285a50481)             ![image](https://github.com/user-attachments/assets/b4576151-250a-46a7-a0b0-a160ea06094a)
+![image](https://github.com/user-attachments/assets/13ca207f-4072-45e3-9146-932bdf421132) ![image](https://github.com/user-attachments/assets/b4576151-250a-46a7-a0b0-a160ea06094a)
 
 
 
