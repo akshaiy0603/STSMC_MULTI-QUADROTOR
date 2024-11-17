@@ -9,10 +9,12 @@ The key objectives of this research include:
    dynamic configurations, to ensure coordinated movement.
 
 2. Obstacle Avoidance
+
    Implementing an artificial potential field-based strategy that allows the quadrotors to navigate safely around static and dynamic obstacles, ensuring they maintain a safe 
    minimum distance from each other and obstacles during maneuvering.
 
-3. PID Tuning for STSMC
+4. PID Tuning for STSMC
+
    Carefully tuning the PID sliding surface parameters to minimize steady-state errors and ensure convergence of the error trajectory, improving system performance and 
    robustness against external disturbances.
 
